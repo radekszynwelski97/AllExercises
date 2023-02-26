@@ -2,6 +2,7 @@ package TabliceWielowymiarowe;
 
 public class Cwiczenie1 {
     public static void main(String[] args) {
+
         double [][] tab = new double[3][];
         double[] line0 = {1.0 , 1.5 , 2.0};
         double[] line1= {1.5 , 2.0 , 2.5};
